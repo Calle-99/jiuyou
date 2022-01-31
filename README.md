@@ -1,6 +1,6 @@
 # JingBeanAppWidget
 ![APP](https://cdn.jsdelivr.net/gh/baifan97/JingBeanAppWidget/APP.png)
-京豆小部件纯净版，无多余内容，完全开源，可基于源码进行二次打包，但请保留开源信息。
+无多余内容，完全开源，可基于源码进行二次打包，但请保留开源信息。
 
 
 ## 功能
